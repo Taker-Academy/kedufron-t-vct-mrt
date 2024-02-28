@@ -1,0 +1,26 @@
+#titre {
+    text-align: center;
+}
+
+.annonce {
+    position: relative;
+}
+
+#img_annonce {
+    height: auto;
+    width: 500px;
+}
+
+.docu {
+    position: relative;
+    top: -200px;
+    left: 450px;
+}
+
+footer {
+    position: relative;
+    top: 500px;
+    background-color: grey;
+    height: 50px;
+    text-align: center;
+}
